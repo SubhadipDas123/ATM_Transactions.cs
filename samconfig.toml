@@ -1,5 +1,5 @@
 version = 0.1
 
 [default.global.parameters]
-stack_name = "Lambda_Stack"
+stack_name = "Adidas_08_Lambda_Trigger"
 region = "eu-north-1"
